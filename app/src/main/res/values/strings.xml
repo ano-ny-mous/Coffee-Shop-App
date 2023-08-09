@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">coffee shop</string>
+    <string name="name">Cafe\nCoffee</string>
+    <string name="description">Given enough coffee, anything is possible\nGiven enough coffee, I could rule the world\nGo ahead! Make my Coffee!"</string>
+    <string name="working_days">Working Days</string>
+    <string name="working_days_value">Monday to Saturday</string>
+    <string name="working_hours">Working Hours</string>
+    <string name="working_hours_value">7:00 to 23:45</string>
+    <string name="website">Website</string>
+    <string name="website_value">www.cafecoffeoline.com</string>
+    <string name="address">Address</string>
+    <string name="address_value">857 Lizzard Slip Rd Washington, North Carolina(NC), 27889</string>
+    <string name="contact">Contact</string>
+    <string name="contact_value">Phone no- +17 23 457 4455\nEmail- cafecofee@online.com</string>
+</resources>

@@ -2,6 +2,12 @@
 
 This Android app XML layout code provides an elegant and organized way to showcase essential information about a coffee shop. The layout is designed to present key details in a visually appealing manner, ensuring an immersive user experience for coffee enthusiasts.
 
+## Screenshots
+
+<img src="https://github.com/ano-ny-mous/Coffee-Shop-App/assets/91519560/33cfb2e2-79bd-4885-9970-9f5e27092c4c" alt="Screenshot 1" width="300" >
+
+<img src="https://github.com/ano-ny-mous/Coffee-Shop-App/assets/91519560/0ed086fd-f5f5-451e-b931-17a1a1cf5059" alt="Screenshot 2" width="300"/>
+
 ## Features
 
 - **Header Section**: The header section of the layout includes a captivating image of the coffee shop's interior or a signature coffee drink. The image is set using the `android:src` attribute, creating an inviting first impression for users.
